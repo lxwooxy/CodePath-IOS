@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 ## A Video
 
-![Imgur](https://imgur.com/a/4v5Zkm5.gif)
+Usage: https://imgur.com/a/4v5Zkm5.gif
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
