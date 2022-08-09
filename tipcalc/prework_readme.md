@@ -26,9 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-![](https://imgur.com/a/4v5Zkm5.gif)
+![Imgur](https://imgur.com/a/4v5Zkm5.gif)
 
 
 ## Notes
