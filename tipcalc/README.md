@@ -28,6 +28,8 @@ The following **additional** features are implemented:
 
 Usage: https://imgur.com/a/4v5Zkm5.gif
 
+![Alt Text](https://imgur.com/a/4v5Zkm5.gif)
+
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ## Notes
