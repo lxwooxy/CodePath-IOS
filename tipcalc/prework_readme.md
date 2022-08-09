@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 
 - [X] Group size tracker: Splits the bill depending on the group size. 1 is the default.
 
-## Video Walkthrough
+## A Video
 
 ![Imgur](https://imgur.com/a/4v5Zkm5.gif)
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
