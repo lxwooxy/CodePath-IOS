@@ -32,8 +32,6 @@ The following **additional** features are implemented:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
 ## License
 
     Copyright [2022] [Georgina Woo]
