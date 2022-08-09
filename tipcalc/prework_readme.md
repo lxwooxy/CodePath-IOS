@@ -27,8 +27,8 @@ The following **additional** features are implemented:
 ## A Video
 
 Usage: https://imgur.com/a/4v5Zkm5.gif
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ## Notes
 
